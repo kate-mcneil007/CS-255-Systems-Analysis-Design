@@ -1,9 +1,11 @@
 # CS-255-Systems-Analysis-Design
 
 Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+
 DriverPass is a company whose main goal is to help customers have a higher success rate on their driving test. They plan to do this through providing different services that clients can pay for. They want to offer three different packages for clients to choose from. The first will include 3 driving lessons. The second package will include 4 driving lessons as well as an in-person explanation of DMV rules and policies. The third package will include 6 driving lessons, the in-person explanation, as well as access to online content, material, and tests. They want to create a website that can be accessed by both DriverPass employees as well as clients. It should be accessible from both mobile devices and computers. They want clients to be able to register and then view their profile online, as well as reset their own passwords. Employees of DriverPass will be able to book, modify, or cancel lessons for clients upon request. Clients should be able to create, modify, or cancel driving lessons themselves from their profile. If they paid for it, they should be able to access online content, material and tests from their profile as well. After driving lessons, drivers should be able to leave notes for the students which can be viewed through student profiles ("DriverPass interview transcript", n.d). 
 
 What did you do particularly well?
+
 I feel that I did a good job of identifying requirements and researching to help find the best way to fulfill requirements, as well as solutions to limitations.  
 
 If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
